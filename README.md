@@ -1,6 +1,6 @@
 # Random-User-Generator
 
-This repository contains a simple Python script to generate a list of random users using the Faker library. The script can be used as a standalone script or imported as a module in other projects.
+This repository contains a simple Python script to generate a list of random users using the `Faker` library. The script can be used as a standalone script or imported as a module in other projects.
 
 ## Requirements
 - Python 3.x
